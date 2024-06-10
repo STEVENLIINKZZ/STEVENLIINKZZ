@@ -17,11 +17,13 @@ So again welcome my name is Steven E. Kaite known to some as Liinkzz, my jounrne
 ├── writeups
 
 ## Certifications 
-
+# Comptia CySa+-003 Certification 
 🎓[comptia-cysa-ce-certification](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/0a0b4e3e-08c2-4743-93bc-c237d396e82c)
 
+# Slunk Core User Certification 
 🎓[SPLK-Certification-Badge-Youracclaim com-101_Splunk-Core-Certified-User](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/60f2b8a1-1e62-4ec3-92fb-ecb47c627f66)
 
+# Cisco Cybersecurity Essentials Certificate
 🎓[CyberEssentials Certificate](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/09a2af7c-b273-4523-afc8-eb338b5b64c4)
 
 
