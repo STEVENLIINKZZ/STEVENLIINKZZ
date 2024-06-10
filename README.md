@@ -22,6 +22,36 @@ So again welcome my name is Steven E. Kaite known to some as Liinkzz, my jounrne
 
 🎓[CyberEssentials Certificate](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/09a2af7c-b273-4523-afc8-eb338b5b64c4)
 
+
+
+
+
+Here are some code examples showcasing some skills in cybersecurity.
+
+## Password Strength Checker
+A script to check the strength of passwords based on various criteria.
+
+[View Code](password_checker.py)
+
+## Basic Network Scanner
+A script to scan a range of IP addresses and check which ones are active.
+
+[View Code](network_scanner.py)
+
+## Simple Encryption/Decryption Tool
+A tool to encrypt and decrypt messages using the Caesar cipher.
+
+[View Code](encryption_tool.py)
+
+## Basic Vulnerability Scanner
+A script to check a website for common vulnerabilities.
+
+[View Code](vulnerability_scanner.py)
+
+## File Integrity Checker
+A script to check the integrity of files using SHA-256 hash.
+
+[View Code](file_integrity_checker.py)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
