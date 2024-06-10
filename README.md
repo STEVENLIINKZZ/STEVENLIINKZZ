@@ -101,10 +101,6 @@ Step 9: Step 9: Terminal will show  ( Enter a password to check its strength: ) 
 
 If password meets all criteria it will show ( Strong: Password meets all critera ) . 
 
-A script to check the strength of passwords based on various criteria.
-
-![Sef check_password_strength(password)](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/3dc35b8e-3929-4821-9cf8-194d46349dd5)
-
 
 
 
