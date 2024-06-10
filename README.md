@@ -81,6 +81,14 @@ Step 5: Navigate to Directory
 By Typing:  cd ~/Documents
 ![Password Strength Checker using Python MacOS](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/29acf020-9dd7-4fef-8ee5-5c5de3dd009a)
 
+Step 6: Run “ ls “ command to confirm that Python script is there from list of documents that will appear once Enter is clicked. 
+
+![Password Strength Checker using Python MacOS](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/f25f312a-5dc6-443f-a3f9-c25f26bd8612)
+
+
+
+
+
 A script to check the strength of passwords based on various criteria.
 
 [View Code](password_checker.py)
