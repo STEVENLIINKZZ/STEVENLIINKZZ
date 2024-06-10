@@ -15,7 +15,8 @@ So again welcome my name is Steven E. Kaite known to some as Liinkzz, my jounrne
 │   └── project2
 ├── tools
 ├── writeups
-└── certifications
+
+## Certifications 
 
 🎓[comptia-cysa-ce-certification](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/0a0b4e3e-08c2-4743-93bc-c237d396e82c)
 
