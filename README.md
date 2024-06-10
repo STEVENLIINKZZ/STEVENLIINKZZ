@@ -103,24 +103,26 @@ If password meets all criteria it will show ( Strong: Password meets all critera
 
 A script to check the strength of passwords based on various criteria.
 
-[View Code]<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Repository</title>
-</head>
-<body>
-    <h1>Check the Strength of Passwords</h1>
-    <p>
-        A script to check the strength of passwords based on various criteria.
-    </p>
-    <p>
-        <a href="https://github.com/your-username/your-repository" target="_blank">View Code</a>
-    </p>
-</body>
-</html>
+[View Code]import re
 
+def check_password_strength(password):
+    if len(password) < 8:
+        return "Weak: Password is too short."
+    elif not re.search("[a-z]", password):
+        return "Weak: Password must include lowercase letters."
+    elif not re.search("[A-Z]", password):
+        return "Weak: Password must include uppercase letters."
+    elif not re.search("[0-9]", password):
+        return "Weak: Password must include numbers."
+    elif not re.search("[!@#$%^&*(),.?\":{}|<>]", password):
+        return "Weak: Password must include special characters."
+    else:
+        return "Strong: Password meets all criteria."
+
+if __name__ == "__main__":
+    password = input("Enter a password to check its strength: ")
+    strength = check_password_strength(password)
+    print(strength)
 
 
 ## Basic Network Scanner
