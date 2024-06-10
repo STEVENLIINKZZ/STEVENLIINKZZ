@@ -103,7 +103,23 @@ If password meets all criteria it will show ( Strong: Password meets all critera
 
 A script to check the strength of passwords based on various criteria.
 
-[View Code](password_checker.py)
+[View Code]<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Repository</title>
+</head>
+<body>
+    <h1>Check the Strength of Passwords</h1>
+    <p>
+        A script to check the strength of passwords based on various criteria.
+    </p>
+    <p>
+        <a href="https://github.com/your-username/your-repository" target="_blank">View Code</a>
+    </p>
+</body>
+</html>
 
 
 
