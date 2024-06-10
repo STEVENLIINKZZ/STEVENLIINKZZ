@@ -103,21 +103,7 @@ If password meets all criteria it will show ( Strong: Password meets all critera
 
 A script to check the strength of passwords based on various criteria.
 
-[View Code]import re
-
-def check_password_strength(password):
-    if len(password) < 8:
-        return "Weak: Password is too short."
-    elif not re.search("[a-z]", password):
-        return "Weak: Password must include lowercase letters."
-    elif not re.search("[A-Z]", password):
-        return "Weak: Password must include uppercase letters."
-    elif not re.search("[0-9]", password):
-        return "Weak: Password must include numbers."
-    elif not re.search("[!@#$%^&*(),.?\":{}|<>]", password):
-        return "Weak: Password must include special characters."
-    else:
-        return "Strong: Password meets all criteria."
+![Sef check_password_strength(password)](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/3dc35b8e-3929-4821-9cf8-194d46349dd5)
 
 if __name__ == "__main__":
     password = input("Enter a password to check its strength: ")
