@@ -4,8 +4,10 @@
 
 #### [Introduction]
 
-Hello, I’m Steven E. Kaite, also known as Liinkzz. My journey as an emerging Cybersecurity Analyst/Engineer has been incredibly exciting, full of new ideas, uncovering system and network threats, and much more. To give a breif introduction of my self 
 
+I am a dynamic and knowledgeable Cybersecurity professional with a profound passion for the field. I have a proven track record of building and nurturing strong relationships, coupled with exceptional communication skills and extensive customer service experience. I am proficient in Cloud, Virtualization, Linux shell, Networking, and Cybersecurity. I graduated from the prestigious Per Scholas Tech Institute with a 90+ average and hold a CySA+ certification from CompTIA, along with multiple certifications from SPLUNK, CISCO, COURSERA, and more.
+
+I am committed to leveraging my diverse skills and education to drive impactful change in cybersecurity, with the ultimate goal of becoming a recognized Cyber Engineer. I am dedicated to building a secure and technologically advanced future for future generations. Currently, I am focused on becoming the best SOC analyst I can be, before setting new goals on this ever-evolving and ambitious journey.
 
 
 
