@@ -1,8 +1,8 @@
 # Hello everyone👋, Thank you for joining me on a journey through my cyber world. My name is StevenLIINKZZ⛓️, and I am excited to welcome you to my Cyber Portfolio.👋
-### Before we get started, please connect with me on LinkedIn for my day to day experiance as an up and coming Cybersecurity Analyst/Engineer [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/stevenkaite24)
+### Before we begin, feel free to connect with me on LinkedIn to follow my daily experiences as an aspiring Cybersecurity Analyst/Engineer. [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/stevenkaite24)
 
 
-[Introduction]
+#### [Introduction]
 
 Hello, I’m Steven E. Kaite, also known as Liinkzz. My journey as an emerging Cybersecurity Analyst/Engineer has been incredibly exciting, full of new ideas, uncovering system and network threats, and much more. To give a breif introduction of my self 
 
