@@ -1,4 +1,4 @@
-## Hello everyone👋, Thank you for joining me on a journey through my cyber world. My name is StevenLIINKZZ⛓️, and I am excited to welcome you to my Cyber Portfolio.👋
+# Hello everyone👋, Thank you for joining me on a journey through my cyber world. My name is StevenLIINKZZ⛓️, and I am excited to welcome you to my Cyber Portfolio.👋
 Before we get started, please connect with me on LinkedIn for my day to day experiance as an up and coming Cybersecurity Analyst/Engineer [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/stevenkaite24)
 
 
@@ -20,14 +20,14 @@ Hello, I’m Steven E. Kaite, also known as Liinkzz. My journey as an emerging C
 ├── tools
 ├── writeups
 
-## Certifications 
-# Comptia CySa+-003 Certification 
+# Certifications 
+## Comptia CySa+-003 Certification 
 🎓[comptia-cysa-ce-certification](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/0a0b4e3e-08c2-4743-93bc-c237d396e82c)
 
-# Slunk Core User Certification 
+## Slunk Core User Certification 
 🎓[SPLK-Certification-Badge-Youracclaim com-101_Splunk-Core-Certified-User](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/60f2b8a1-1e62-4ec3-92fb-ecb47c627f66)
 
-# Cisco Cybersecurity Essentials Certificate
+## Cisco Cybersecurity Essentials Certificate
 🎓[CyberEssentials Certificate](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/09a2af7c-b273-4523-afc8-eb338b5b64c4)
 
 
