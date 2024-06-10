@@ -57,6 +57,18 @@ By Typing: xcode-select --install
 Step Two: after a few minutes installation promote will appear click install.
 ![Password Strength Checker using Python MacOS](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/366ca622-08b1-4938-a3e3-106552c5dcb3)
 ![Password Strength Checker using Python MacOS](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/c89fddc0-dcb4-4c6e-84a7-f16df56a2af6)
+![Password Strength Checker using Python MacOS](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/9bf08fe1-22eb-43d4-b451-570dd1c6daa7)
+
+Step 3: Once the installation is complete as shown above, verify it by running the python3 --version command :
+
+By Typing: python3 --version    ; Press Enter
+![Password Strength Checker using Python MacOS](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/d0197685-cbba-4711-887a-242b927788a1)
+
+
+
+
+
+
 
 A script to check the strength of passwords based on various criteria.
 
