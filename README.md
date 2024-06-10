@@ -70,7 +70,8 @@ Step 4: Now time to write Python script.
 
 Use textfind app to create new document with your python password checker script and save as  (    password_checker.py.  )
 
-![Password Strength Checker using Python MacOS](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/4c7e2305-3af0-4788-982e-5d1e612470d8)
+![Password Strength Checker using Python MacOS](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/e1067d9a-5f27-4176-a90b-d822ab2fd9f9)
+
 
 Once saved, document will show as so. 
 
