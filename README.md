@@ -4,7 +4,7 @@ Before we get started, please connect with me on LinkedIn for my day to day expe
 
 [Introduction]
 
-So again welcome my name is Steven E. Kaite known to some as Liinkzz, my jounrney so far as an up and coming Cybersecurity Analyst/Engineer has been filled with thrilling experiance, unfolding new idea, revealing system network threats and so so much more. To give a breif introduction of my self 
+Hello, I’m Steven E. Kaite, also known as Liinkzz. My journey as an emerging Cybersecurity Analyst/Engineer has been incredibly exciting, full of new ideas, uncovering system and network threats, and much more.. To give a breif introduction of my self 
 /cybersecurity-projects
 ├── README.md
 ├── projects
