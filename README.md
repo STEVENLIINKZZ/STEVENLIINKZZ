@@ -49,12 +49,12 @@ Step 4: Fourth, go down list in terminal and confirm new user was listed.
 ![PASSWORD Cherkr step by step](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/99a4e721-eea0-414a-8641-9afa8ae07d49)
 
 ## Password Strength Checker using Python MacOS
-Step one: Install the Xcode Command Line Tools: 
+Step 1: Install the Xcode Command Line Tools: 
 
 By Typing: xcode-select --install
 ![Password Strength Checker using Python MacOS](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/1cd17c87-f7ee-48b7-94ec-5f5de45c0bb9)
 
-Step Two: after a few minutes installation promote will appear click install.
+Step 2: after a few minutes installation promote will appear click install.
 ![Password Strength Checker using Python MacOS](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/366ca622-08b1-4938-a3e3-106552c5dcb3)
 ![Password Strength Checker using Python MacOS](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/c89fddc0-dcb4-4c6e-84a7-f16df56a2af6)
 
@@ -91,9 +91,15 @@ Step 7: Run Password Checker Document.
 By Typing: python3 password_checker.py.   ;      Click Enter. 
 ![Password Strength Checker using Python MacOS](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/a466c772-66ca-48a9-b14a-91a78585e7c1)
 
+Step 8:  After script is successfully ran , you should see a prompt asking for a password. 
 
+![Password Strength Checker using Python MacOS](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/bac8bca7-9b3b-457c-b2a8-a3735a764177)
 
+Step 9: Step 9: Terminal will show  ( Enter a password to check its strength: ) finally enter a password and press Enter to see the evaluation of its strength.
 
+![Password Strength Checker using Python MacOS](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/4cace3de-a842-4098-b511-414d4ec5f5f3)
+
+If password meets all criteria it will show ( Strong: Password meets all critera ) . 
 
 A script to check the strength of passwords based on various criteria.
 
