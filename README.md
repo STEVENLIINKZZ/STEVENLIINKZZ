@@ -46,7 +46,7 @@ By Typing:  sudo dscl . -create /Users/CHOOSEOFUSERNAME  ; then press Enter.
 
 STEP 2: After creating the username, the terminal will prompt you to enter the original password. Press Enter once you have entered it.
 
-Ex. [Password:  (choose of password will not show) click enter once finished. 
+Ex. [Password:  (choose of password will not show, if password is incorrect it will show sorry, try again) click enter once finished. 
 ![PASSWORD Cherkr step by step copy](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/e00b1c65-3650-41a9-89ca-f10b314a31bb)
 
 Step 3: Third, once password is successfully is created, you will then confirm new user has been listed.
