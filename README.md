@@ -49,9 +49,20 @@ Step 4: Fourth, go down list in terminal and confirm new user was listed.
 ![PASSWORD Cherkr step by step](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/99a4e721-eea0-414a-8641-9afa8ae07d49)
 
 ## Password Strength Checker using Python MacOS
+Step one: Install the Xcode Command Line Tools: 
+
+By Typing: xcode-select --install
+![Password Strength Checker using Python MacOS](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/1cd17c87-f7ee-48b7-94ec-5f5de45c0bb9)
+
+Step Two: after a few minutes installation promote will appear click install.
+![Password Strength Checker using Python MacOS](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/366ca622-08b1-4938-a3e3-106552c5dcb3)
+
+
 A script to check the strength of passwords based on various criteria.
 
 [View Code](password_checker.py)
+
+
 
 ## Basic Network Scanner
 A script to scan a range of IP addresses and check which ones are active.
