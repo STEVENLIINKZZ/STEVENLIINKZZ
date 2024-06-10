@@ -26,7 +26,7 @@ I am committed to leveraging my diverse skills and education to drive impactful 
 
 
 
-## Here are some code examples showcasing some skills in cybersecurity.
+# Here are some code examples showcasing some skills in cybersecurity.
 
 ## Creating New User And Listing In MacOs
 STEP 1: First, open the terminal and enter your desired username. Exp:(CHOOSEOFUSERNAME) 
@@ -62,6 +62,8 @@ Step 3: Once the installation is complete as shown above, verify it by running t
 
 By Typing: python3 --version    ; Press Enter
 ![Password Strength Checker using Python MacOS](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/d0197685-cbba-4711-887a-242b927788a1)
+If command was successfully ran it will show Python version, in this case version 3.9.6
+![Password Strength Checker using Python MacOS](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/415860c4-a859-4b3a-9a93-fd3a317d426e)
 
 
 
