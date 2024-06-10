@@ -58,7 +58,7 @@ Step 4: Fourth, go down list in terminal and confirm new user was listed.
 
 ![PASSWORD Cherkr step by step](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/99a4e721-eea0-414a-8641-9afa8ae07d49)
 
-## Password Strength Checker
+## Password Strength Checker using Python MacOS
 A script to check the strength of passwords based on various criteria.
 
 [View Code](password_checker.py)
