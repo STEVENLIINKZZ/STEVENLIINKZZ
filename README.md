@@ -76,6 +76,11 @@ Once saved, document will show as so.
 
 ![password_checke](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/67d2052e-da06-4957-babe-c79e6384d5a3)
 
+Step 5: Navigate to Directory 
+
+By Typing:  cd ~/Documents
+![Password Strength Checker using Python MacOS](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/29acf020-9dd7-4fef-8ee5-5c5de3dd009a)
+
 A script to check the strength of passwords based on various criteria.
 
 [View Code](password_checker.py)
