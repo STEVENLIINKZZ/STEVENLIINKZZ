@@ -105,10 +105,7 @@ A script to check the strength of passwords based on various criteria.
 
 ![Sef check_password_strength(password)](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/3dc35b8e-3929-4821-9cf8-194d46349dd5)
 
-if __name__ == "__main__":
-    password = input("Enter a password to check its strength: ")
-    strength = check_password_strength(password)
-    print(strength)
+
 
 
 ## Basic Network Scanner
