@@ -32,7 +32,8 @@ Here are some code examples showcasing some skills in cybersecurity.
 
 ## Creating New User And Listing In MacOs
 STEP 1: First open terminal and with choose of user name type 
-code sudo dscl . -create /Users/CHOOSEOFUSERNAME
+
+sudo dscl . -create /Users/CHOOSEOFUSERNAME
 ![PASSWORD Cherkr step by step copy 2](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/d148c881-aa67-4c37-ae7d-98e0e7653c0b)
 ## Password Strength Checker
 A script to check the strength of passwords based on various criteria.
