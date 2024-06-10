@@ -36,7 +36,7 @@ I am committed to leveraging my diverse skills and education to drive impactful 
 
 
 
-Here are some code examples showcasing some skills in cybersecurity.
+## Here are some code examples showcasing some skills in cybersecurity.
 
 ## Creating New User And Listing In MacOs
 STEP 1: First, open the terminal and enter your desired username. Exp:(CHOOSEOFUSERNAME) 
