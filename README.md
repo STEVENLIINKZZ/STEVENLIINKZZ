@@ -31,10 +31,25 @@ So again welcome my name is Steven E. Kaite known to some as Liinkzz, my jounrne
 Here are some code examples showcasing some skills in cybersecurity.
 
 ## Creating New User And Listing In MacOs
-STEP 1: First open terminal and with choose of user name type 
+STEP 1: First, open the terminal and enter your desired username. Exp:(CHOOSEOFUSERNAME) 
 
-sudo dscl . -create /Users/CHOOSEOFUSERNAME
+By Typing:  sudo dscl . -create /Users/CHOOSEOFUSERNAME  ; then press Enter. 
 ![PASSWORD Cherkr step by step copy 2](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/d148c881-aa67-4c37-ae7d-98e0e7653c0b)
+
+STEP 2: After creating the username, the terminal will prompt you to enter the original password. Press Enter once you have entered it.
+
+Ex. [Password:  (choose of password will not show) click enter once finished. 
+![PASSWORD Cherkr step by step copy](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/e00b1c65-3650-41a9-89ca-f10b314a31bb)
+
+Step 3: Third, once password is successfully is created, you will then confirm new user has been listed.
+
+By typing: dscl . -list /Users/   ; then press Enter.
+![PASSWORD Cherkr step by step](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/b3fb9002-e8a8-4c71-8e33-9ebae5def405)
+
+Step 4: Fourth, go down list in terminal and confirm new user was listed. 
+
+![PASSWORD Cherkr step by step](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/99a4e721-eea0-414a-8641-9afa8ae07d49)
+
 ## Password Strength Checker
 A script to check the strength of passwords based on various criteria.
 
