@@ -1,5 +1,5 @@
 ## Hello everyone👋, Thank you for joining me on a journey through my cyber world. My name is StevenLIINKZZ⛓️, and I am excited to welcome you to my Cyber Portfolio.👋
-[Before we get started, please connect with me on LinkedIn for my day to day experiance as an up and coming Cybersecurity Analyst/Engineer]<!--www.linkedin.com/in/stevenkaite24**STEVENLIINKZZ/STEVENLIINKZZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Before we get started, please connect with me on LinkedIn for my day to day experiance as an up and coming Cybersecurity Analyst/Engineer]<!--www.linkedin.com/in/stevenkaite24**
 
 [Introduction]
 
