@@ -85,6 +85,11 @@ Step 6: Run “ ls “ command to confirm that Python script is there from list 
 
 ![Password Strength Checker using Python MacOS](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/f25f312a-5dc6-443f-a3f9-c25f26bd8612)
 
+Step 7: Run Password Checker Document.
+
+By Typing: python3 password_checker.py.   ;      Click Enter. 
+![Password Strength Checker using Python MacOS](https://github.com/STEVENLIINKZZ/STEVENLIINKZZ/assets/172217698/a466c772-66ca-48a9-b14a-91a78585e7c1)
+
 
 
 
