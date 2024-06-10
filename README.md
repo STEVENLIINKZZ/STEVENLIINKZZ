@@ -11,16 +11,6 @@ I am committed to leveraging my diverse skills and education to drive impactful 
 
 
 
-/cybersecurity-projects
-├── README.md
-├── projects
-│   ├── project1
-│   │   ├── README.md
-│   │   ├── source_code
-│   │   └── docs
-│   └── project2
-├── tools
-├── writeups
 
 ### Certifications 
 #### Comptia CySa+-003 Certification 
