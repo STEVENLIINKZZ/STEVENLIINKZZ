@@ -122,9 +122,12 @@ A script to check a website for common vulnerabilities.
 ## File Integrity Checker
 A script to check the integrity of files using SHA-256 hash.
 
-## Cloud Computing Projects(AWS) 
+# Cloud Computing Projects(AWS) 
+## Setting Up Cloud Environment 
 
+Step 1: Start with (AWS Managed Polices) Begin by assigning AWS managed policies to your IAM users and roles. These policies provide predefined permissions for common use cases and can serve as a baseline while you assess the specific needs of your project. 
 
+First, Sign in to the AWS Management Console: Navigate to https://aws.amazon.com/console/ and enter your credentials.![Uploading Sign in AWS.png…]()
 
 
 
