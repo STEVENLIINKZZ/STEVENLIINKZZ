@@ -128,7 +128,7 @@ A script to check the integrity of files using SHA-256 hash.
 # Cloud Computing Projects(AWS) 
 ## Setting Up Cloud Environment 
 
-Step 1: Start with (AWS Managed Polices) Begin by assigning AWS managed policies to your IAM users and roles. These policies provide predefined permissions for common use cases and can serve as a baseline while you assess the specific needs of your project. 
+# Step 1: Start with (AWS Managed Polices) Begin by assigning AWS managed policies to your IAM users and roles. These policies provide predefined permissions for common use cases and can serve as a baseline while you assess the specific needs of your project. 
 
 1) Sign in to the AWS Management Console: Navigate to https://aws.amazon.com/console/ and enter your credentials, As shown below.
 
@@ -144,14 +144,19 @@ Step 1: Start with (AWS Managed Polices) Begin by assigning AWS managed policies
 
 
 3) Navigate to the Policies Section: In the left-hand navigation pane of the IAM dashboard, click on Policies. This section displays a comprehensive list of IAM policies available in your account.
+ 
+<img width="1440" alt="policies filter " src="https://github.com/user-attachments/assets/b03359d3-6ecb-455a-974f-23aca9f32b19" />
 
-<img width="1437" alt="policy " src="https://github.com/user-attachments/assets/729fdb6a-033c-4a9b-a58c-014519f61411" />
+4) Filter for AWS Managed Policies: At the top of the Policies page, you'll find a filter labeled Filter policies. Click on this dropdown menu and select AWS managed. This action will filter the list to show only the policies that are created and maintained by AWS.​
+AWS Documentation
 
+<img width="1440" alt="aws managed " src="https://github.com/user-attachments/assets/1cc64554-11d1-4095-8565-3d55121c6da8" />
 
+5) View and Manage Policies: Browse through the filtered list to view the AWS managed policies. You can click on any policy to see its details, including the permissions it grants and the services it affects. While you cannot modify AWS managed policies directly, you can attach them to users, groups, or roles as needed.
 
+<img width="1439" alt="choose filter " src="https://github.com/user-attachments/assets/ae58fff0-8a19-47ea-af58-44793416b534" />
 
-
-
+# 2. Analyze Access Activity with IAM Access Analyzer
 
 
 
