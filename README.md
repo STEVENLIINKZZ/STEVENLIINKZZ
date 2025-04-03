@@ -1,4 +1,4 @@
-<img width="1435" alt="Sign in AWS" src="https://github.com/user-attachments/assets/97e2ff84-d21b-4309-a5a8-29f5eeacf12a" /># Hello everyone👋, Thank you for joining me on a journey through my cyber world. My name is StevenLIINKZZ⛓️, and I am excited to welcome you to my Cyber Portfolio.👋
+ /># Hello everyone👋, Thank you for joining me on a journey through my cyber world. My name is StevenLIINKZZ⛓️, and I am excited to welcome you to my Cyber Portfolio.👋
 ### Before we begin, feel free to connect with me on LinkedIn to follow my daily experiences as an aspiring Cybersecurity Analyst/Engineer. [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/stevenkaite24)
 
 
