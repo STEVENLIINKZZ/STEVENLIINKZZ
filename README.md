@@ -126,7 +126,7 @@ A script to check a website for common vulnerabilities.
 A script to check the integrity of files using SHA-256 hash.
 
 # Cloud Computing Projects(AWS) 
-## Setting Up Cloud Environment  <img width="722" alt="Screenshot 2025-04-03 at 6 12 51 PM" src="https://github.com/user-attachments/assets/1f005e16-8c82-4c2f-9bc6-204e1207982e" />
+## Setting Up Cloud Environment  <img width="562" alt="iam icon" src="https://github.com/user-attachments/assets/a0cfd502-e66a-43a8-81b6-231079aa78b4" />
 
 
 
