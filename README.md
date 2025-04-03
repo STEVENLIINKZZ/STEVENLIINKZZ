@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/e62fc335-955a-4619-83e8-8660f17c2440) 
-/> # Hello everyone👋, Thank you for joining me on a journey through my cyber world. My name is StevenLIINKZZ⛓️, and I am excited to welcome you to my Cyber Portfolio.👋
+![Animated Avatar](https://your-link-to-gif.gif)  # Hello everyone👋, Thank you for joining me on a journey through my cyber world. My name is StevenLIINKZZ⛓️, and I am excited to welcome you to my Cyber Portfolio.👋
 ### Before we begin, feel free to connect with me on LinkedIn to follow my daily experiences as an aspiring Cybersecurity Cloud Engineer. [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/stevenkaite24)
 
 
@@ -128,9 +127,14 @@ A script to check the integrity of files using SHA-256 hash.
 
 Step 1: Start with (AWS Managed Polices) Begin by assigning AWS managed policies to your IAM users and roles. These policies provide predefined permissions for common use cases and can serve as a baseline while you assess the specific needs of your project. 
 
-Sign in to the AWS Management Console: Navigate to https://aws.amazon.com/console/ and enter your credentials, As shown below. 
+1) Sign in to the AWS Management Console: Navigate to https://aws.amazon.com/console/ and enter your credentials, As shown below. 
 
 <img width="1435" alt="Sign in AWS" src="https://github.com/user-attachments/assets/97e2ff84-d21b-4309-a5a8-29f5eeacf12a" />
+
+2) Access the IAM Dashboard: Once logged in, go to the Services menu at the top of the page and select IAM under the "Security, Identity, & Compliance" section. This will direct you to the IAM (Identity and Access Management) dashboard.
+
+
+
 
 
 
