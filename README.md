@@ -143,6 +143,12 @@ Step 1: Start with (AWS Managed Polices) Begin by assigning AWS managed policies
 <img width="1439" alt="Step 2 i am " src="https://github.com/user-attachments/assets/f9c23e03-e9b5-4c72-9205-85981ce3ed2f" />
 
 
+3) Navigate to the Policies Section: In the left-hand navigation pane of the IAM dashboard, click on Policies. This section displays a comprehensive list of IAM policies available in your account.
+
+<img width="1437" alt="policy " src="https://github.com/user-attachments/assets/729fdb6a-033c-4a9b-a58c-014519f61411" />
+
+
+
 
 
 
