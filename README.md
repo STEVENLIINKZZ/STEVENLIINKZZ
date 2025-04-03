@@ -125,8 +125,11 @@ A script to check the integrity of files using SHA-256 hash.
 # Cloud Computing Projects(AWS) 
 ## Setting Up Cloud Environment 
 
-<img width="1435" alt="Sign in AWS" src="https://github.com/user-attachments/assets/97e2ff84-d21b-4309-a5a8-29f5eeacf12a" />
 Step 1: Start with (AWS Managed Polices) Begin by assigning AWS managed policies to your IAM users and roles. These policies provide predefined permissions for common use cases and can serve as a baseline while you assess the specific needs of your project. 
+
+Sign in to the AWS Management Console: Navigate to https://aws.amazon.com/console/ and enter your credentials, As shown below. 
+<img width="1435" alt="Sign in AWS" src="https://github.com/user-attachments/assets/97e2ff84-d21b-4309-a5a8-29f5eeacf12a" />
+
 
 
 
