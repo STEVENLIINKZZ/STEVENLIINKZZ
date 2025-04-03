@@ -1,4 +1,6 @@
-![Animated Avatar](https://your-link-to-gif.gif)  # Hello everyone👋, Thank you for joining me on a journey through my cyber world. My name is StevenLIINKZZ⛓️, and I am excited to welcome you to my Cyber Portfolio.👋
+![Animated Avatar](https://your-link-to-gif.gif)  
+
+# Hello everyone👋, Thank you for joining me on a journey through my cyber world. My name is StevenLIINKZZ⛓️, and I am excited to welcome you to my Cyber Portfolio.👋
 ### Before we begin, feel free to connect with me on LinkedIn to follow my daily experiences as an aspiring Cybersecurity Cloud Engineer. [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/stevenkaite24)
 
 
