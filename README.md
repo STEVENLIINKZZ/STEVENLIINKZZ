@@ -135,6 +135,9 @@ Step 1: Start with (AWS Managed Polices) Begin by assigning AWS managed policies
 <img width="1435" alt="Sign in AWS" src="https://github.com/user-attachments/assets/97e2ff84-d21b-4309-a5a8-29f5eeacf12a" />
 
 
+
+
+
 2) Access the IAM Dashboard: Once logged in, go to the Services menu at the top of the page and select IAM under the "Security, Identity, & Compliance" section. This will direct you to the IAM (Identity and Access Management) dashboard.
 
 <img width="1439" alt="Step 2 i am " src="https://github.com/user-attachments/assets/f9c23e03-e9b5-4c72-9205-85981ce3ed2f" />
