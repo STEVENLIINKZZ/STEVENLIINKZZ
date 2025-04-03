@@ -127,7 +127,7 @@ A script to check the integrity of files using SHA-256 hash.
 
 Step 1: Start with (AWS Managed Polices) Begin by assigning AWS managed policies to your IAM users and roles. These policies provide predefined permissions for common use cases and can serve as a baseline while you assess the specific needs of your project. 
 
-![First, Sign in to the AWS Management Console: Navigate to https://aws.amazon.com/console/ and enter your credentials.](https://github.com/your-username/your-repository/blob/main/![Uploading Sign in AWS.png…]
+
 
 [View Code](file_integrity_checker.py)
 Here are some ideas to get you started:
