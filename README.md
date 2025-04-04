@@ -131,7 +131,7 @@ A script to check the integrity of files using SHA-256 hash.
 
 
 
-### Step 1: Start with (AWS Managed Polices) Begin by assigning AWS managed policies to your IAM users and roles. These policies provide predefined permissions for common use cases and can serve as a baseline while you assess the specific needs of your project. 
+### Step 1: Started with (AWS Managed Polices) Began by assigning AWS managed policies to my IAM users and roles. These policies provide predefined permissions for common use cases and can serve as a baseline while you assess the specific needs of your project. 
 
 1) Sign in to the AWS Management Console: Navigate to https://aws.amazon.com/console/ and enter your credentials, As shown below.
 
@@ -141,7 +141,7 @@ A script to check the integrity of files using SHA-256 hash.
 
 
 
-2) Access the IAM Dashboard: Once logged in, go to the Services menu at the top of the page and select IAM under the "Security, Identity, & Compliance" section. This will direct you to the IAM (Identity and Access Management) dashboard.
+2) Accessed the IAM Dashboard: Once logged in, go to the Services menu at the top of the page and select IAM under the "Security, Identity, & Compliance" section. This will direct you to the IAM (Identity and Access Management) dashboard.
 
 <img width="1439" alt="Step 2 i am " src="https://github.com/user-attachments/assets/f9c23e03-e9b5-4c72-9205-85981ce3ed2f" />
 
@@ -161,7 +161,11 @@ AWS Documentation
 
 ### 2. Building My First IAM Policy 
 
- 1) Pick a Small Task to Start, Goal: (Let User Access "an S3 bucket, Use EC2 to launch or stop instances, & Maybe interact with CloudWatch logs") I was able to generate a “Developer Basic Access” Custom Policy using AI opensource. 
+ 1) I picked a Small Task to Start, Goal: (Let User Access "an S3 bucket, Use EC2 to launch or stop instances, & Maybe interact with CloudWatch logs") I was able to generate a “Developer Basic Access” Custom Policy using AI opensource. I started at the IAM Console, then I selected policies on left then I clicked on create policy as shown below:
+
+<img width="1440" alt="creating policies" src="https://github.com/user-attachments/assets/0107b04e-8ca2-4b1f-9542-8ac4a049c7b2" />
+
+2) I used open AI to generate  “Developer Basic Access” code: 
 
 
 
