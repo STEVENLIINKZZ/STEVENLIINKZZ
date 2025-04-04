@@ -159,12 +159,9 @@ AWS Documentation
 
 <img width="1439" alt="choose filter " src="https://github.com/user-attachments/assets/ae58fff0-8a19-47ea-af58-44793416b534" />
 
-### 2. Analyze Access Activity with IAM Access Analyzer
+### 2. Building My First IAM Policy 
 
-
-
-
-
+ 1) Pick a Small Task to Start, Goal: (Let User Access "an S3 bucket, Use EC2 to launch or stop instances, & Maybe interact with CloudWatch logs") I was able to generate a “Developer Basic Access” Custom Policy using AI opensource. 
 
 
 
