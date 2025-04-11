@@ -175,7 +175,7 @@ Access Levels:
 List: 
 <img width="1400" alt="Screenshot 2025-04-11 at 3 23 51 PM" src="https://github.com/user-attachments/assets/9685a17c-f89b-4552-ac3a-a45b90e09533" />
 
-Read: 
+Write: 
 <img width="1436" alt="Screenshot 2025-04-11 at 3 28 12 PM" src="https://github.com/user-attachments/assets/01e76eab-00b8-4386-bf9c-0d3e694bbe6e" />
 <img width="1440" alt="Screenshot 2025-04-11 at 3 29 27 PM" src="https://github.com/user-attachments/assets/7c33103c-8c46-4ca5-be50-7f50c4dd7dca" />
 
