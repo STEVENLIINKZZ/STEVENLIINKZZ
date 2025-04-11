@@ -161,20 +161,26 @@ AWS Documentation
 
 ### 2. Building My First IAM Policy 
 
- 1) AWS Console > IAM > Policies > Create policy as shown below. 
+ Step 1) AWS Console > IAM > Policies > Create policy as shown below. 
 <img width="1440" alt="creating policies" src="https://github.com/user-attachments/assets/0107b04e-8ca2-4b1f-9542-8ac4a049c7b2" />
 
-2) I used open AI to generate  “Developer Basic Access” code: 
+Step 2) In this step you have the choose to use Visual or JSON, for this project I used visual but you can always use JSON meaning youll have to generate your own code for permissions. After selecting visual  then select Choose a services > Ec2 as shown below: 
+<img width="1439" alt="Screenshot 2025-04-11 at 12 38 47 PM" src="https://github.com/user-attachments/assets/e5812580-4d1d-4d31-88f3-bb781cc165ed" /> 
+
+Step 3) Add EC2 Actions, Expand "List" → Check 'DescribeInstances, 'DescribeInstanceStatus then Expand "Write" → Check: 'StartInstances, 'StopInstances, `RebootInstances, `TerminateInstances . This gives full basic control over EC2 instances as shown below: 
+
+Directory: 
+<img width="1408" alt="Screenshot 2025-04-11 at 3 49 34 PM" src="https://github.com/user-attachments/assets/6b11ea0f-95ef-453e-84d0-084211f611cf" />
+
+List: 
+<img width="1400" alt="Screenshot 2025-04-11 at 3 23 51 PM" src="https://github.com/user-attachments/assets/9685a17c-f89b-4552-ac3a-a45b90e09533" />
+
+Read: 
+<img width="1436" alt="Screenshot 2025-04-11 at 3 28 12 PM" src="https://github.com/user-attachments/assets/01e76eab-00b8-4386-bf9c-0d3e694bbe6e" />
+<img width="1440" alt="Screenshot 2025-04-11 at 3 29 27 PM" src="https://github.com/user-attachments/assets/7c33103c-8c46-4ca5-be50-7f50c4dd7dca" />
 
 
 
-
-
-
-
-
-[View Code](file_integrity_checker.py)
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
