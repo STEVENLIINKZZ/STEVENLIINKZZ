@@ -161,8 +161,7 @@ AWS Documentation
 
 ### 2. Building My First IAM Policy 
 
- 1) I picked a Small Task to Start, Goal: (Let User Access "an S3 bucket, Use EC2 to launch or stop instances, & Maybe interact with CloudWatch logs") I was able to generate a “Developer Basic Access” Custom Policy using AI opensource. I started at the IAM Console, then I selected policies on left then I clicked on create policy as shown below:
-
+ 1) AWS Console > IAM > Policies > Create policy as shown below. 
 <img width="1440" alt="creating policies" src="https://github.com/user-attachments/assets/0107b04e-8ca2-4b1f-9542-8ac4a049c7b2" />
 
 2) I used open AI to generate  “Developer Basic Access” code: 
