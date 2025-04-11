@@ -169,7 +169,7 @@ Step 2) In this step you have the choose to use Visual or JSON, for this project
 
 Step 3) Add EC2 Actions, Expand "List" → Check 'DescribeInstances, 'DescribeInstanceStatus then Expand "Write" → Check: 'StartInstances, 'StopInstances, `RebootInstances, `TerminateInstances . This gives full basic control over EC2 instances as shown below: 
 
-Directory: 
+Access Levels: 
 <img width="1408" alt="Screenshot 2025-04-11 at 3 49 34 PM" src="https://github.com/user-attachments/assets/6b11ea0f-95ef-453e-84d0-084211f611cf" />
 
 List: 
@@ -179,6 +179,8 @@ Read:
 <img width="1436" alt="Screenshot 2025-04-11 at 3 28 12 PM" src="https://github.com/user-attachments/assets/01e76eab-00b8-4386-bf9c-0d3e694bbe6e" />
 <img width="1440" alt="Screenshot 2025-04-11 at 3 29 27 PM" src="https://github.com/user-attachments/assets/7c33103c-8c46-4ca5-be50-7f50c4dd7dca" />
 
+Step 4) Set Resources, Choose: All resources (for now) As shown below:
+<img width="1440" alt="Screenshot 2025-04-11 at 4 16 00 PM" src="https://github.com/user-attachments/assets/0cb0056e-352b-495f-9c09-308f06388e16" />
 
 
 
