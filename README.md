@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/1e99d1b6-e402-45e9-855f-28d53794f421)
+![AI_Icon_Resized_GitHub (1)](https://github.com/user-attachments/assets/9a601070-24dd-480b-ac0b-0e7e703c2ada)
+
 
 
 ## Hello everyone👋, Thank you for joining me on a journey through my cyber world. My name is StevenLIINKZZ⛓️, and I am excited to welcome you to my Cyber Portfolio.👋
