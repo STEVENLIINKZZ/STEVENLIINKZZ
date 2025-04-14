@@ -172,17 +172,41 @@ Step 3) Add EC2 Actions, Expand "List" → Check 'DescribeInstances, 'DescribeIn
 Access Levels: 
 <img width="1408" alt="Screenshot 2025-04-11 at 3 49 34 PM" src="https://github.com/user-attachments/assets/6b11ea0f-95ef-453e-84d0-084211f611cf" />
 
-List: 
+####List: 
 <img width="1400" alt="Screenshot 2025-04-11 at 3 23 51 PM" src="https://github.com/user-attachments/assets/9685a17c-f89b-4552-ac3a-a45b90e09533" />
 
-Write: 
+####Write: 
 <img width="1436" alt="Screenshot 2025-04-11 at 3 28 12 PM" src="https://github.com/user-attachments/assets/01e76eab-00b8-4386-bf9c-0d3e694bbe6e" />
 <img width="1440" alt="Screenshot 2025-04-11 at 3 29 27 PM" src="https://github.com/user-attachments/assets/7c33103c-8c46-4ca5-be50-7f50c4dd7dca" />
 
 Step 4) Set Resources, Choose: All resources (for now) As shown below:
 <img width="1440" alt="Screenshot 2025-04-11 at 4 16 00 PM" src="https://github.com/user-attachments/assets/0cb0056e-352b-495f-9c09-308f06388e16" />
 
+###3. Set/Assign I AM User (Never use Root!)(Goal: Create a user with limited permissions so you don’t use the root account for daily tasks.)
 
+Step 1) Go to the IAM Dashboard: AWS Console > Search for IAM > Click Users > Create user
+<img width="1440" alt="Screenshot 2025-04-14 at 10 58 22 AM" src="https://github.com/user-attachments/assets/49d2c0da-4c0f-4320-8200-4690ece033f5" />
+
+Step 2) Username: cloud-adminLiinkzz (name of your choice)
+<img width="1400" alt="Screenshot 2025-04-14 at 11 11 52 AM" src="https://github.com/user-attachments/assets/0bd004bc-0587-4c21-8d0c-387a1233bfa1" />
+
+Step 3) Check Programmatic access and AWS Management Console access > Set a custom password.
+<img width="1403" alt="Screenshot 2025-04-14 at 11 22 10 AM" src="https://github.com/user-attachments/assets/b6651f5c-c9a6-41fa-8499-94c9e261077c" />
+
+Step 4) Click Next: Permissions and you would have now successfully created IAM USER, You'll then see this page as show below for next steps. 
+<img width="1400" alt="Screenshot 2025-04-14 at 11 39 08 AM" src="https://github.com/user-attachments/assets/62e2714b-9b45-4367-93b4-5984aa6d1ec8" />
+
+Step 5) Set/Assign Permissions via Group first click create group then name your group (ex. AdminLiinkzz) 
+<img width="1398" alt="Screenshot 2025-04-14 at 11 51 47 AM" src="https://github.com/user-attachments/assets/813c7c52-9bab-478b-8cb4-1ad7fedbe651" />
+
+Step 6) Attach the > AdministratorAccess policy (you can tighten this later).
+<img width="1400" alt="Screenshot 2025-04-14 at 12 02 56 PM" src="https://github.com/user-attachments/assets/ecd8e155-c75d-454b-99d4-8c4b70a46389" />
+
+Step 7) Finally, Add your user to this group > Finish creating the user.
+<img width="1440" alt="creating policies copy" src="https://github.com/user-attachments/assets/d4af8309-8f96-49b9-baa5-ca45b8a487bd" />
+
+Below is What you should see once created successfully.
+<img width="1440" alt="Screenshot 2025-04-14 at 1 01 18 PM" src="https://github.com/user-attachments/assets/46e5e71a-9abd-46e6-9683-70c0e5daf4dd" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
