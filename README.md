@@ -206,7 +206,8 @@ Step 7) Finally, Add your user to this group > Finish creating the user.
 <img width="1440" alt="creating policies copy" src="https://github.com/user-attachments/assets/d4af8309-8f96-49b9-baa5-ca45b8a487bd" />
 
 Below is What you should see once created successfully.
-<img width="1440" alt="Screenshot 2025-04-14 at 1 01 18 PM" src="https://github.com/user-attachments/assets/46e5e71a-9abd-46e6-9683-70c0e5daf4dd" />
+<img width="1404" alt="Screenshot 2025-04-14 at 1 01 18 PM" src="https://github.com/user-attachments/assets/9f42f8d9-dcb9-434b-b209-39588f280a98" />
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
