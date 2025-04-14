@@ -209,7 +209,8 @@ Step 7) Finally, Add your user to this group > Finish creating the user.
 
 
 Below is What you should see once created successfully.
-<img width="1401" alt="Screenshot 2025-04-14 at 3 58 12 PM copy" src="https://github.com/user-attachments/assets/7a6e8aaf-bfbb-4ee4-b2c9-d1dcfa29cf21" />
+<img width="1396" alt="Screenshot 2025-04-14 at 4 03 20 PM" src="https://github.com/user-attachments/assets/a5a62001-d964-46b6-874c-a1f1c16dada2" />
+
 
 
 
