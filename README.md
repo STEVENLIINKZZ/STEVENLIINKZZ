@@ -250,10 +250,27 @@ Step 2) Set a strong password policy: ( At least 8 characters, Require uppercase
 Step 3) Save changes. If all is done correct, you'll see (Password requirements for IAM users are updated) As shown below:
 <img width="1399" alt="Screenshot 2025-04-15 at 2 58 47 PM" src="https://github.com/user-attachments/assets/bb219b06-3245-4ba0-a043-7e43cccf82dc" />
 
+###Step 5: Activate AWS CloudTrail (Optional but Recommended)"Monitors API activity across your account."
 
+Step 1) Go to CloudTrail > Create trail 
+<img width="1437" alt="Screenshot 2025-04-15 at 3 19 30 PM" src="https://github.com/user-attachments/assets/ce8fdb9a-48d4-4d66-ae33-eb69dbd64ccf" />
+<img width="1402" alt="Screenshot 2025-04-15 at 3 26 09 PM" src="https://github.com/user-attachments/assets/1e72bcea-ec9f-4b47-a313-4755a319eec0" />
 
+Step 2) Name it something like ( Ex: Liinkzzcloud-activity-trail ) Once done click create trail. 
+<img width="1399" alt="Screenshot 2025-04-15 at 3 33 04 PM" src="https://github.com/user-attachments/assets/5ede61a6-27fc-466a-a974-9c67487e2ca1" />
 
+Step 3) Enable for all regions > Scroll down to the "Management events" section > Look for the setting that asks if you want the trail to be applied to all regions > Select “Yes” (or check the box) to ensure that CloudTrail records management events across all AWS regions. ( Enabling your trail for all regions ensures that if you launch services in a different region later on, their API activity will also be recorded automatically.) 
 
+Click Trail Name: 
+<img width="1395" alt="Screenshot 2025-04-15 at 3 42 27 PM" src="https://github.com/user-attachments/assets/3ae6a169-8d62-400b-9547-8b023a81f2e8" />
+
+Scroll down Management Events: 
+<img width="1401" alt="Screenshot 2025-04-15 at 4 19 34 PM" src="https://github.com/user-attachments/assets/e49cb49a-0f63-4ee6-b912-618e2d300d8c" />
+
+Once completed confirm on Managment Events API Activity says "ALL" ask shown below:
+<img width="1400" alt="Screenshot 2025-04-15 at 4 42 31 PM" src="https://github.com/user-attachments/assets/525ff435-bd58-46a5-aec4-aba0647b6212" />
+
+Step 4) Configure Additional Settings
 
 
 
