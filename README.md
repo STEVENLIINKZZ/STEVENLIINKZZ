@@ -174,17 +174,17 @@ Step 3) Add EC2 Actions, Expand "List" → Check 'DescribeInstances, 'DescribeIn
 Access Levels: 
 <img width="1408" alt="Screenshot 2025-04-11 at 3 49 34 PM" src="https://github.com/user-attachments/assets/6b11ea0f-95ef-453e-84d0-084211f611cf" />
 
-####List: 
+#### List: 
 <img width="1400" alt="Screenshot 2025-04-11 at 3 23 51 PM" src="https://github.com/user-attachments/assets/9685a17c-f89b-4552-ac3a-a45b90e09533" />
 
-####Write: 
+#### Write: 
 <img width="1436" alt="Screenshot 2025-04-11 at 3 28 12 PM" src="https://github.com/user-attachments/assets/01e76eab-00b8-4386-bf9c-0d3e694bbe6e" />
 <img width="1440" alt="Screenshot 2025-04-11 at 3 29 27 PM" src="https://github.com/user-attachments/assets/7c33103c-8c46-4ca5-be50-7f50c4dd7dca" />
 
 Step 4) Set Resources, Choose: All resources (for now) As shown below:
 <img width="1440" alt="Screenshot 2025-04-11 at 4 16 00 PM" src="https://github.com/user-attachments/assets/0cb0056e-352b-495f-9c09-308f06388e16" />
 
-###3. Set/Assign I AM User (Never use Root!)(Goal: Create a user with limited permissions so you don’t use the root account for daily tasks.)
+### 3. Set/Assign I AM User (Never use Root!)(Goal: Create a user with limited permissions so you don’t use the root account for daily tasks.)
 
 Step 1) Go to the IAM Dashboard: AWS Console > Search for IAM > Click Users > Create user
 <img width="1440" alt="Screenshot 2025-04-14 at 10 58 22 AM" src="https://github.com/user-attachments/assets/49d2c0da-4c0f-4320-8200-4690ece033f5" />
