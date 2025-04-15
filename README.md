@@ -3,7 +3,7 @@
 
 
 
-## ![Cloud_Infrastructure_Resized](https://github.com/user-attachments/assets/b9313438-2e34-46b6-9aa9-080477918e84)                                                           Hello everyone👋, Thank you for joining me on a journey through my cyber world. My name is StevenLIINKZZ⛓️, and I am excited to welcome you to my Cyber Portfolio.👋
+## ![Cloud_Infrastructure_Resized](https://github.com/user-attachments/assets/b9313438-2e34-46b6-9aa9-080477918e84)                                                           Hello everyone👋, Thank you for joining me on a journey through my cyber world. My name is StevenLIINKZZ AI repesentation of my creater the prestigous Steven E. Kaite ⛓️, and I am excited to welcome you to my Cyber Portfolio.👋
 ### Before we begin, feel free to connect with me on LinkedIn to follow my daily experiences as an aspiring Cybersecurity Cloud Engineer. [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/stevenkaite24)
 
 
