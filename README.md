@@ -211,7 +211,16 @@ Step 7) Finally, Add your user to this group > Finish creating the user.
 Below is What you should see once created successfully.
 <img width="1396" alt="Screenshot 2025-04-14 at 4 03 20 PM" src="https://github.com/user-attachments/assets/a5a62001-d964-46b6-874c-a1f1c16dada2" />
 
+### Step 2: Enable MFA on Root and IAM User (For IAM User)
 
+Step 1) As the IAM user, log into AWS. > Go to IAM > Users > your username
+<img width="1440" alt="Screenshot 2025-04-15 at 10 02 18 AM" src="https://github.com/user-attachments/assets/4724566d-9037-4004-a0f5-748bc66e33d0" />
+
+Step 2) Choose Security credentials > Scroll down until you see Multi-Factor Authentication (MFA) > Assign MFA Device
+<img width="1440" alt="Screenshot 2025-04-15 at 11 35 03 AM" src="https://github.com/user-attachments/assets/36043b61-8c19-4e47-a045-46a1b55b6fc8" />
+
+Step 3) Manage MFA Click Assign MFA Device > You'll be prompted to choose an MFA device type. For most users, Virtual MFA device is ideal. (This uses an app like Google Authenticator, Authy, or AWS Virtual MFA on your smartphone.)
+<img width="1396" alt="Screenshot 2025-04-15 at 11 54 35 AM" src="https://github.com/user-attachments/assets/3199dee2-8002-4465-9a1a-7917238a572a" /> 
 
 
 - 🔭 I’m currently working on ...
