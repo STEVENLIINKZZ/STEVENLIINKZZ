@@ -5,7 +5,7 @@
 Steven E. Kaite is a Result-oriented Cybersecurity/ IT HelpDesk professional with a strong passion for
 the Information Technology industry. In addition to he holds experience and understanding in IT asset management, inventory tracking, and lifecycle management. Known for cultivating and maintaining strong relationships, exceptional skilled in translating complex concepts for diverse audience, and a history of exceeding performance goals. Advanced proficiency in cloud infrastructure management, virtualization technologies, and Linux shell scripting, coupled with deep knowledge in network architecture and cybersecurity protocols, enabling robust, secure, and scalable system operations. Graduate of the prestigious Per Scholars Tech Institute with a 90+ average and CySA+ certification from CompTIA, currently attending Western Governors University were Steven Is studying to achieve his Bachelors Of Science In Cybersecurity & information Assurance. Possessing multiple certifications from SPLUNK, CISCO, and more. Steven is committed to leveraging diverse skills and education to drive impactful change in the Information Technology field, with a focus on building a secure and technologically advanced future.</p>
   </div>
-  <img src="![Cloud_Infrastructure_Resized](https://github.com/user-attachments/assets/b9313438-2e34-46b6-9aa9-080477918e84)   " alt="Profile" width="150" style="margin-left: 20px;"/>
+  <img src="![Cloud_Infrastructure_Resized](https://github.com/user-attachments/assets/b9313438-2e34-46b6-9aa9-080477918e84)" alt="Profile" width="150" style="margin-left: 20px;"/>
 </div>
 
 
