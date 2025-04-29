@@ -1,9 +1,4 @@
-<div style="display: flex; align-items: center;">
-  <div>
-    <h1>👨‍💻 Steven E. Kaite's</h1>
-    <p>Cybersecurity | Cloud Engineering | Tech Innovator:About
-Steven E. Kaite is a Result-oriented Cybersecurity/ IT HelpDesk professional with a strong passion for
-the Information Technology industry. In addition to he holds experience and understanding in IT asset management, inventory tracking, and lifecycle management. Known for cultivating and maintaining strong relationships, exceptional skilled in translating complex concepts for diverse audience, and a history of exceeding performance goals. Advanced proficiency in cloud infrastructure management, virtualization technologies, and Linux shell scripting, coupled with deep knowledge in network architecture and cybersecurity protocols, enabling robust, secure, and scalable system operations. Graduate of the prestigious Per Scholars Tech Institute with a 90+ average and CySA+ certification from CompTIA, currently attending Western Governors University were Steven Is studying to achieve his Bachelors Of Science In Cybersecurity & information Assurance. Possessing multiple certifications from SPLUNK, CISCO, and more. Steven is committed to leveraging diverse skills and education to drive impactful change in the Information Technology field, with a focus on building a secure and technologically advanced future.</p>
+
   </div>
   <img src=![Cloud_Infrastructure_Resized](https://github.com/user-attachments/assets/74b8dfc3-9fa3-4dc8-8630-2c4f9c1cc227)alt="Profile" width="150" style="margin-left: 20px;"/>
 </div>
@@ -15,11 +10,9 @@ the Information Technology industry. In addition to he holds experience and unde
 
 
 #### [Introduction]
-
-
-I am a dynamic and knowledgeable Cybersecurity professional with a profound passion for the field. I have a proven track record of building and nurturing strong relationships, coupled with exceptional communication skills and extensive customer service experience. I am proficient in Cloud, Virtualization, Linux shell, Networking, and Cybersecurity. I graduated from the prestigious Per Scholas Tech Institute with a 90+ average and hold a CySA+ certification from CompTIA, along with multiple certifications from SPLUNK, CISCO, COURSERA, and more.
-
-I am committed to leveraging my diverse skills and education to drive impactful change in cybersecurity, with the ultimate goal of becoming a recognized Cyber Engineer. I am dedicated to building a secure and technologically advanced future for future generations. Currently, I am focused on becoming the best SOC analyst I can be, before setting new goals on this ever-evolving and ambitious journey.
+Cybersecurity | Cloud Engineering | Tech Innovator:
+Steven E. Kaite is a Result-oriented Cybersecurity/ IT HelpDesk professional with a strong passion for
+the Information Technology industry. In addition to he holds experience and understanding in IT asset management, inventory tracking, and lifecycle management. Known for cultivating and maintaining strong relationships, exceptional skilled in translating complex concepts for diverse audience, and a history of exceeding performance goals. Advanced proficiency in cloud infrastructure management, virtualization technologies, and Linux shell scripting, coupled with deep knowledge in network architecture and cybersecurity protocols, enabling robust, secure, and scalable system operations. Graduate of the prestigious Per Scholars Tech Institute with a 90+ average and CySA+ certification from CompTIA, currently attending Western Governors University were Steven Is studying to achieve his Bachelors Of Science In Cybersecurity & information Assurance. Possessing multiple certifications from SPLUNK, CISCO, and more. Steven is committed to leveraging diverse skills and education to drive impactful change in the Information Technology field, with a focus on building a secure and technologically advanced future.
 
 
 
