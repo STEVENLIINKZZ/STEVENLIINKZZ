@@ -274,7 +274,8 @@ Step 4) Configure Additional Settings
 
 
 
-
+## EC2 DEPLOYMENT 
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/52927ee0-5dbf-4114-8817-a8d7fc4c3063" />
 
 
 
