@@ -132,6 +132,10 @@ A script to check the integrity of files using SHA-256 hash.
 
 ## Phase 1: Install Virtualization Software
 
+Step 1) Step 1 Install Virtualization Software
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/9644bede-a0ac-4ddc-baf7-dc48846ceb6d" />
+
+
 
 
 
