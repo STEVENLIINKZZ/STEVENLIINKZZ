@@ -128,8 +128,10 @@ A script to check a website for common vulnerabilities.
 A script to check the integrity of files using SHA-256 hash.
 
 # Enterprise Incident Response Lab(Information Security Engineer)
-## Phase 1: Install Virtualization Software
 <img width="1592" height="988" alt="Enterprise Incident Response LAB (Pic Title)" src="https://github.com/user-attachments/assets/1902beb4-c526-4b85-944e-eeef156a203a" />
+
+## Phase 1: Install Virtualization Software
+
 
 
 
